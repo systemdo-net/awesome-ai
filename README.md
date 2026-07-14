@@ -1,97 +1,97 @@
-<h1 align="center">🤖 SystemDo Awesome AI</h1>
+<h1 align="center">🤖 SystemDo AI 精选资源</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Type-AI_Resources-0b5cff?style=flat-square" alt="Type">
-  <img src="https://img.shields.io/badge/Curated-By_SystemDo-00b090?style=flat-square" alt="Curated">
-  <img src="https://img.shields.io/badge/Updated-Regularly-0b5cff?style=flat-square" alt="Updated">
-  <a href="https://systemdo.net"><img src="https://img.shields.io/badge/Website-systemdo.net-0b5cff?style=flat-square" alt="Website"></a>
+  <img src="https://img.shields.io/badge/类型-AI_资源精选-0b5cff?style=flat-square" alt="类型">
+  <img src="https://img.shields.io/badge/维护-SystemDo_团队-00b090?style=flat-square" alt="维护">
+  <img src="https://img.shields.io/badge/更新-定期更新-0b5cff?style=flat-square" alt="更新">
+  <a href="https://systemdo.net"><img src="https://img.shields.io/badge/官网-systemdo.net-0b5cff?style=flat-square" alt="官网"></a>
 </p>
 
 ---
 
-## 📖 About
+## 📖 项目介绍
 
-**Awesome AI** is a curated list of AI tools, Large Language Models (LLMs), RAG frameworks, AI Agents, and automation solutions — handpicked and vetted by the SystemDo engineering team.
+**SystemDo AI 精选资源** — 由 SystemDo 技术团队精心整理和实战验证的 AI 工具、大语言模型（LLM）、RAG 框架、AI Agent 与自动化解决方案权威清单。
 
-We use these tools daily to build enterprise AI solutions for our clients. This list reflects our real-world experience with each tool, not just hype.
+这里的每一个工具都是我们在实际企业项目中使用过的，不是纸上谈兵。我们只推荐真正好用的东西。
 
-> **Our Philosophy:** AI is a tool, not magic. The best AI solutions combine the right model with the right architecture and the right business context.
+> **核心理念：** AI 是工具，不是魔术。最好的 AI 方案 = 正确的模型 + 合理的架构 + 真实的业务场景。
 
-## 📂 Contents
+## 📂 内容目录
 
-### 🧠 Large Language Models (LLMs)
+### 🧠 大语言模型（LLM）
 
-| Model | Provider | Best For |
-|-------|----------|----------|
-| Claude 4.5 Opus | Anthropic | Complex reasoning, code generation, enterprise workflows |
-| Claude 4.5 Sonnet | Anthropic | Balanced performance, cost-effective enterprise use |
-| GPT-5 | OpenAI | Broad knowledge, creative tasks, multimodal |
-| GPT-4o | OpenAI | Fast, cost-effective, multimodal |
-| Gemini 2.5 Pro | Google | Long context, multimodal, research |
-| DeepSeek V3 | DeepSeek | Cost-effective, strong reasoning, open-weight |
+| 模型 | 厂商 | 最适合 |
+|------|------|--------|
+| Claude 4.5 Opus | Anthropic | 复杂推理、代码生成、企业工作流 |
+| Claude 4.5 Sonnet | Anthropic | 性价比高，适合日常企业应用 |
+| GPT-5 | OpenAI | 知识面广、创意任务、多模态 |
+| GPT-4o | OpenAI | 速度快、性价比高、多模态 |
+| Gemini 2.5 Pro | Google | 超长上下文、多模态、深度研究 |
+| DeepSeek V3 | DeepSeek | 高性价比、推理能力强、开源权重 |
 
-### 🔧 Development Tools
+### 🔧 AI 开发工具
 
-| Tool | Description | Use Case |
-|------|-------------|----------|
-| **Claude Code** | AI-powered CLI for software development | Code generation, debugging, refactoring |
-| **Cursor** | AI-first code editor | Fast prototyping, code review |
-| **Codex** | OpenAI's code generation model | API integration, code completion |
-| **GitHub Copilot** | AI pair programmer | Daily development workflow |
+| 工具 | 说明 | 使用场景 |
+|------|------|---------|
+| **Claude Code** | AI 驱动的命令行开发工具 | 代码生成、调试、重构 |
+| **Cursor** | AI 优先的代码编辑器 | 快速原型开发、代码审查 |
+| **Codex** | OpenAI 代码生成模型 | API 集成、代码补全 |
+| **GitHub Copilot** | AI 结对编程助手 | 日常开发工作流 |
 
-### 🏗️ RAG & Knowledge Bases
+### 🏗️ RAG 与企业知识库
 
-| Framework | Description | Best For |
-|-----------|-------------|----------|
-| **LangChain** | LLM application framework | Complex AI workflows |
-| **LlamaIndex** | Data framework for LLMs | Enterprise knowledge bases |
-| **RAGFlow** | Open-source RAG engine | Document Q&A systems |
-| **Dify** | LLM app development platform | Rapid AI app prototyping |
+| 框架 | 说明 | 最适合 |
+|------|------|--------|
+| **LangChain** | LLM 应用开发框架 | 复杂 AI 工作流 |
+| **LlamaIndex** | LLM 数据框架 | 企业级知识库 |
+| **RAGFlow** | 开源 RAG 引擎 | 文档智能问答 |
+| **Dify** | LLM 应用开发平台 | 快速 AI 应用原型 |
 
-### 🤖 AI Agents
+### 🤖 AI 智能体（Agent）
 
-| Framework | Description | Best For |
-|-----------|-------------|----------|
-| **MCP** | Model Context Protocol | Standardized AI-tool integration |
-| **AutoGPT** | Autonomous AI agent | Research and exploration |
-| **CrewAI** | Multi-agent orchestration | Complex multi-step workflows |
-| **LangGraph** | Stateful agent framework | Production agent systems |
+| 框架 | 说明 | 最适合 |
+|------|------|--------|
+| **MCP** | 模型上下文协议 | 标准化 AI 工具集成 |
+| **AutoGPT** | 自主 AI 代理 | 研究与探索任务 |
+| **CrewAI** | 多代理协作框架 | 复杂多步骤工作流 |
+| **LangGraph** | 有状态代理框架 | 生产级 Agent 系统 |
 
-### 🎯 Enterprise AI Applications
+### 🎯 企业 AI 应用场景
 
-| Application | Technology Stack | Business Value |
-|-------------|-----------------|----------------|
-| **AI Customer Service** | RAG + LLM + Knowledge Base | 24/7 support, reduced costs |
-| **AI Knowledge Base** | RAG + Vector DB + LLM | Instant employee answers |
-| **AI Office Automation** | AI Agents + API Integration | Workflow automation |
-| **AI SEO / GEO** | LLM + Content Analysis | Search visibility optimization |
+| 应用方向 | 技术栈 | 商业价值 |
+|---------|--------|---------|
+| **AI 智能客服** | RAG + LLM + 知识库 | 7×24 自动服务，降低人工成本 |
+| **AI 企业知识库** | RAG + 向量数据库 + LLM | 员工即时获取企业知识 |
+| **AI 自动办公** | AI Agent + API 集成 | 工作流自动化提效 |
+| **AI SEO / GEO** | LLM + 内容分析 | 提升搜索可见度 |
 
-### 📚 Learning Resources
+### 📚 学习资源
 
-- **Courses:** DeepLearning.AI, Fast.ai, Anthropic Cookbook
-- **Papers:** Attention Is All You Need, RAG paper, MCP specification
-- **Communities:** Hugging Face, r/LocalLLaMA, Anthropic Developer Forum
+- **课程推荐：** DeepLearning.AI、Fast.ai、Anthropic Cookbook
+- **经典论文：** Attention Is All You Need、RAG 论文、MCP 规范
+- **社区推荐：** Hugging Face、r/LocalLLaMA、Anthropic 开发者论坛
 
-## 🎯 Who Is This For?
+## 🎯 适用人群
 
-- **Developers** exploring AI integration in enterprise applications
-- **Tech Leads** evaluating AI tools for their tech stack
-- **Business Owners** understanding AI possibilities for their industry
-- **AI Enthusiasts** staying up-to-date with the rapidly evolving AI landscape
+- **开发者** — 探索 AI 在企业应用中的集成方案
+- **技术负责人** — 评估 AI 工具与团队技术栈的匹配度
+- **企业主** — 了解 AI 在自身行业的落地可能性
+- **AI 爱好者** — 紧跟快速演进的 AI 技术前沿
 
-## 🗺️ Roadmap
+## 🗺️ 未来规划
 
-- [ ] Add hands-on tutorials for each major tool
-- [ ] Create comparison benchmarks for enterprise use cases
-- [ ] Add deployment templates for common AI architectures
-- [ ] Build evaluation framework for AI tool selection
-- [ ] Include case studies from real enterprise AI projects
+- [ ] 为每个核心工具添加实战教程
+- [ ] 创建企业场景 AI 工具对比评测
+- [ ] 发布常见 AI 架构部署模板
+- [ ] 构建 AI 工具选型评估框架
+- [ ] 收录真实企业 AI 落地案例
 
-## 📄 License
+## 📄 开源协议
 
 MIT © SystemDo
 
-## 🔗 Links
+## 🔗 相关链接
 
-- **Website:** [https://systemdo.net](https://systemdo.net)
-- **Contact:** [wo18672433344@gmail.com](mailto:wo18672433344@gmail.com)
+- **官网：** [https://systemdo.net](https://systemdo.net)
+- **联系邮箱：** [wo18672433344@gmail.com](mailto:wo18672433344@gmail.com)
